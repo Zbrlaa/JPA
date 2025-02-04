@@ -1,0 +1,7 @@
+Persist : Entités -> BDD -> DAO
+
+Metier - Business, Framework Spring
+
+Interface : IHM/GUI (JavaFix)
+RPC : SocketTCP, REST, (WebSocket)
+
